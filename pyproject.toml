@@ -59,7 +59,12 @@ benchmark=[
     "wandb",
 ]
 rag=[
+    "faiss-cpu",
+    "json-repair",
+    "langgraph",
+    "openai",
     "pcst_fast",
+    "PyYAML",
     "datasets",
     "transformers",
     "pandas",
